@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Startup Stack"
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
